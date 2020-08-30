@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/author/admin/</loc>
+    <loc>https://www.project-audiobook.tech/author/admin/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.project-audiobook.tech/authors/</loc>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://www.project-audiobook.tech/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.project-audiobook.tech/categories/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.project-audiobook.tech/</loc>
   </url>
   
   <url>
-    <loc>/author/project-audiobook/</loc>
+    <loc>https://www.project-audiobook.tech/author/project-audiobook/</loc>
   </url>
   
   <url>
-    <loc>/project-audiobook/</loc>
+    <loc>https://www.project-audiobook.tech/project-audiobook/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://www.project-audiobook.tech/publication_types/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.project-audiobook.tech/tags/</loc>
   </url>
   
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://www.project-audiobook.tech/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

@@ -2,23 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Project-AudioBook</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.project-audiobook.tech/authors/</link>
+      <atom:link href="https://www.project-audiobook.tech/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy Copyright 2017-2020. Project-AudioBook</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© {2017} - {2021} Project-AudioBook</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.project-audiobook.tech/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://www.project-audiobook.tech/authors/</link>
     </image>
     
     <item>
       <title>Project-AudioBook</title>
-      <link>/author/project-audiobook/</link>
+      <link>https://www.project-audiobook.tech/author/project-audiobook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/project-audiobook/</guid>
-      <description>&lt;p&gt;ProjectAudioBook is non-profit organization, run by students who are very passionate to cater back to the society.&lt;/p&gt;
-&lt;p&gt;We believe that Anyone can achieve so many things by just learning from the books and novels. But many times big books and lengthy novels are very hectic and time-consuming to read. So we thought to do this &lt;strong&gt;Project-AudioBook&lt;/strong&gt;.&lt;/p&gt;
+      <guid>https://www.project-audiobook.tech/author/project-audiobook/</guid>
+      <description>&lt;p&gt;Project AudioBook is non-profit organization, run by the students who are very passionate to cater back to the society.
+We believe Anyone can achieve so many things by just learning from the books, novels. But many times big books and lengthy novels are very hectic and time-consuming to read. So we thought to create a open platform &lt;strong&gt;Project-AudioBook&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://creativecommons.org/licenses/by-nd/4.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/License-CC--0-blue.svg&#34; alt=&#34;CC-0 license&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
